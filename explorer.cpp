@@ -66,7 +66,6 @@ void searchFile(string base, string target) {
 // --------------------------------------------------------------
 int main() {
     string currentPath = ".";
-    int choice;
     string arg1, arg2;
 
     while (true) {
